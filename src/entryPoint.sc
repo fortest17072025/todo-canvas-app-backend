@@ -7,7 +7,7 @@ require: js/reply.js
 require: js/actions.js
 require: js/findItem.js
 
-# Подключение сценарных файлов 333-111
+# Подключение сценарных файлов 333-111-3321
 require: scenario/addNote.sc
 require: scenario/doNote.sc
 require: scenario/deleteNote.sc
