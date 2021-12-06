@@ -1,4 +1,6 @@
-# SmartApp Backend MASTERMAIN
+# SmartApp Backend
+
+MASTERMAIN
 
 Это backend на SmartApp Code для небольшого Canvas App: Todo (добавление, выполнение и удаление задач. [См. видео](https://youtu.be/P-o2rwHhARo)). Для работы необходимо сделать fork-проекта в свой git-репозиторий, создать новый проект в SmartApp Studio и подключить к нему созданный git-репозиторий. После этого можно взять токен и связать backend с [frontend](https://github.com/sberdevices/todo-canvas-app). 
 
